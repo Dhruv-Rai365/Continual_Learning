@@ -1,6 +1,6 @@
 # Directory strecture
 
-mini-project-1/
+mini-project-2/
 ├── README
 └── ExtractedFeatures
 └── Task_1.ipynb
